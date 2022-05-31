@@ -20,22 +20,22 @@ Using the dataset found on Kaggle  about courses on Udemy, we analyze the perfor
 
 Numerous questions can be initiated from the dataset. However, the project only concentrates on the popularity of Udemy courses from the dataset. Deriving from the motivation, the research questions are formulated as below:     
 
-●	What are the most popular courses and subjects in Udemy?
-●	Which factors influence the course popularity within Udemy?
+-	What are the most popular courses and subjects in Udemy?
+-	Which factors influence the course popularity within Udemy?
 
 ## Data description 
 In this project, we look at various courses offered by Udemy on the available data from the publishing year 2011 to 2017. Noticeably, it only covers the first six months of 2017. There are 3,682 observations (rows) and 12 features (columns). Udemy courses are divided into four main subjects (business finance, graphic design, musical instruments, and web design) (Larxel, 2020). 
 
-1	course_id:	Integer	Course ID
-2	course_title:	String	Course title
-3	url	String:	Course URL
-4	is_paid:	Boolean	Whether the course is free or paid
-5	price:	Integer	Course price
-6	num_subscribers:	Integer	Number of subscribers
-7	num_reviews:	Integer	Number of reviews
-8	num_lectures:	Integer	Number of lectures
-9	level:	Object	Course levels
-10	content_duration:	Float	Duration of the course material
-11	published_timestamp:	String	The date that the course was published
-12	subject:	String	Course subject
+1.	course_id:	Integer	Course ID
+2.	course_title:	String	Course title
+3	.url	String:	Course URL
+4.	is_paid:	Boolean	Whether the course is free or paid
+5.	price:	Integer	Course price
+6.	num_subscribers:	Integer	Number of subscribers
+7.	num_reviews:	Integer	Number of reviews
+8.	num_lectures:	Integer	Number of lectures
+9.	level:	Object	Course levels
+10.	content_duration:	Float	Duration of the course material
+11.	published_timestamp:	String	The date that the course was published
+12.	subject:	String	Course subject
 
