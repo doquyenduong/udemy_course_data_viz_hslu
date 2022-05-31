@@ -1,5 +1,5 @@
 # udemy_course_data_viz_hslu
-This is a project to make a dashboard with Tableau for the module "Computer Science for Data Scientists" in the first semester at HSLU. This is my first Tableau project.
+This is a project to make __a dashboard with Tableau__ for the module "Computer Science for Data Scientists" in the first semester at HSLU. This is my first Tableau project.
 
 ## Project description
 * You choose the data and task for your visualization project yourself. Your job is to develop a meaningful interactive visualization solving the task defined by you in Tableau (e.g., dashboard). Although there are technical requirements below, focus on the task: What do you want to reveal in the visualization? In order to organize your thoughts, you need to prepare a visualization draft beforehand to the project discussion with the lecturer.
@@ -14,7 +14,7 @@ Online learning has recently become one of the common options not only for stude
 
 This analysis report is inspired by Udemy, one of the top-trending online platforms, offering more than 155 000 courses by 56 000 instructors for more than 40 million learners in more than 65 languages up to date (Udemy, 2021). Udemy, founded in May 2010, is an American online learning platform aimed at professional adults and students that offers both free and paid courses. Anybody can create an online class. This is the business model which grants Udemy to have diverse lessons. Students take courses vastly to improve life and job-related skills: some courses generate credit toward technical certifications. Udemy has made a special effort to attract corporate trainers seeking to create coursework for employees of their company.
 
-Using the dataset found on Kaggle  about courses on Udemy, we analyze the performance of online courses and getting insights about users' preferences in terms of course price, level, course duration. This analysis report is carried out by several main steps: data cleaning, data visualization, and interpretation of the findings.
+Using the dataset found on Kaggle  about courses on Udemy, I analyze the performance of online courses and getting insights about users' preferences in terms of course price, level, course duration. This analysis report is carried out by several main steps: data cleaning, data visualization, and interpretation of the findings.
 
 ## Research questions
 
@@ -38,4 +38,8 @@ In this project, we look at various courses offered by Udemy on the available da
 10.	content_duration:	Float	Duration of the course material
 11.	published_timestamp:	String	The date that the course was published
 12.	subject:	String	Course subject
+
+## Dashboard
+![image](https://user-images.githubusercontent.com/83208743/171133326-0b0388e4-0ab1-4a82-8e8f-88b7d49a3b17.png)
+
 
